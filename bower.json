@@ -1,0 +1,22 @@
+{
+  "name": "mocha-teamcity-reporter",
+  "main": "lib/teamcity.js",
+  "version": "0.0.4",
+  "homepage": "https://github.com/travisjeffery/mocha-teamcity-reporter",
+  "authors": [
+    "Travis Jeffery"
+  ],
+  "description": "mocha-teamcity-reporter now is for browsers",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "mocha",
+    "teamcity",
+    "reporter",
+    "browser"
+  ],
+  "license": "MIT",
+  "private": true
+}
